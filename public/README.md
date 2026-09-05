@@ -1,0 +1,1 @@
+Product assets go in `public/images/`. Recommended filenames: `bootcut-hero.jpg`, `bootcut-grey.jpg`, `bootcut-blue.jpg`, `bootcut-closeup.jpg`, `bootcut-full.jpg` and real customer review photos as they become available.
